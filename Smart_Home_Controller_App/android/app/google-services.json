@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823414931160",
+    "firebase_url": "https://newpro-5b127-default-rtdb.firebaseio.com",
+    "project_id": "newpro-5b127",
+    "storage_bucket": "newpro-5b127.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823414931160:android:07f5dadb3acbf57a5461ad",
+        "android_client_info": {
+          "package_name": "com.example.newpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBggdbnzLue2-65AN54L7RnpvyaOR0PVIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
